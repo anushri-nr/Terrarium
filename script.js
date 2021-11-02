@@ -12,7 +12,8 @@ dragElement(document.getElementById('plant11'));
 dragElement(document.getElementById('plant12'));
 dragElement(document.getElementById('plant13'));
 dragElement(document.getElementById('plant14'));
-
+i = 0
+console.log(5/i)
 function dragElement(terrariumElement) {
 	//set 4 positions for positioning on the screen
 	let pos1 = 0,
